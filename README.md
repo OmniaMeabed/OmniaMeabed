@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Omnia Meabed</h1>
 <h3 align="center">Data & AI Engineer</h3>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="GitHub Banner" width="600" height="400"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY5ZmViMG1jeXcyZ2hjd2w3ODFxYTI1cGJzMGFhbTM5MDlrOHdoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.webp" alt="GitHub Banner" width="600" height="400"/>
 </p>
 
 - 💬 Ask me about **Data Science & AI**
