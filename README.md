@@ -14,11 +14,13 @@
 <!-- ----------- BODY SECTION ------------ -->
 
 ## About
-- 👨‍🎓 I'm a computer engineering graduate from Beni Suef University, Egypt.
-- 💡 Interested in Machine learning
-- 🙏 Enjoy solving problems and implement new solutions.
-- 🚀 Avid reader who loves immersing myself in books and always eager to learn something new.
-- 🥇 Aiming to make a significant impact on a global scale.
+-------------------------
+💻 I am a self taught Machine Learning Developer and Flutter Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, Java, C++, Dart, Html
+🚩 Interested in Machine Learning Application development
 
 <!-- ## Work Experience
 
