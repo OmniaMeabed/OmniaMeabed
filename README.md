@@ -1,5 +1,5 @@
 <!-- ----------- HEAD SECTION ------------ -->
-<h1 align="center">Hi 👋, I'm Alaa Sayed</h1>
+<h1 align="center">Hi 👋, I'm Omnia Meabed</h1>
 <h3 align="center">Data & AI Engineer</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="GitHub Banner" width="600" height="400"/>
