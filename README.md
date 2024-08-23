@@ -35,10 +35,11 @@
 
 <p>
     <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-2c292d.svg?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2c292d.svg?style=for-the-badge&logo=pandas&logoColor=ffffff"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-2c292d.svg?style=for-the-badge&logo=matplotlib&logoColor=ffffff"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-2c292d.svg?style=for-the-badge&logo=seaborn&logoColor=ffffff"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2c292d.svg?style=for-the-badge&logo=TensorFlow&logoColor=ffffff"></a>
 
 </p>
