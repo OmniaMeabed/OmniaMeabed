@@ -22,6 +22,27 @@
 - 🌟 Main languages: Python, Java, C++, Dart, Html
 - 🚩 Interested in Machine Learning Application development
 
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
+
+##### 💪 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="C++" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=c++3&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
+
+##### 💪 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2c292d.svg?style=for-the-badge&logo=pandas&logoColor=ffffff"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2c292d.svg?style=for-the-badge&logo=TensorFlow&logoColor=ffffff"></a>
+
+</p>
+
 <!-- ## Work Experience
 
 | 🏢 Company/Org                                | 💼 Role                           | ⏰ Duration          |
