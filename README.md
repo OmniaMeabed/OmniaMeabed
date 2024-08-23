@@ -60,7 +60,7 @@
 | [ALX Egypt](https://www.alxafrica.com/egypt/) | Learning Community Manager  | Apr 2024 - Present  |
 | [Pixels Egypt](https://pixelseg.com/)         | Problem-Solving Coordinator | Sep 2022 - Sep 2023 | -->
 
-## Top Used Languages
+#### Top Used Languages
 
 ![Python](https://img.shields.io/badge/Python-66.45%25-blue)
 ![C++](https://img.shields.io/badge/C++-14.60%25-gray)
