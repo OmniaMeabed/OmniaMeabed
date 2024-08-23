@@ -34,6 +34,7 @@
 ##### 💪 Frameworks and Libraries
 
 <p>
+    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-2c292d.svg?style=for-the-badge&logo=Sklearn&logoColor=ffffff"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2c292d.svg?style=for-the-badge&logo=pandas&logoColor=ffffff"></a>
