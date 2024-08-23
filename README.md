@@ -14,13 +14,13 @@
 <!-- ----------- BODY SECTION ------------ -->
 
 ## About
--------------------------
-💻 I am a self taught Machine Learning Developer and Flutter Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, Java, C++, Dart, Html
-🚩 Interested in Machine Learning Application development
+
+- 💻 I am a self taught Machine Learning Developer and Flutter Developer
+- 📝 I have a strong interest in Data Science and Artificial Intelligence
+- 🔭 Working on Deep Learning & Machine Learning
+- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌟 Main languages: Python, Java, C++, Dart, Html
+- 🚩 Interested in Machine Learning Application development
 
 <!-- ## Work Experience
 
