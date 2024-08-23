@@ -28,7 +28,7 @@
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="C++" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=c++3&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="C++" src="https://img.shields.io/badge/C++-2c292d.svg?style=for-the-badge&logo=c++3&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
