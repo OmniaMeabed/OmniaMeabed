@@ -3,7 +3,8 @@
 <h3 align="center">Data & AI Engineer</h3>
 <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d1c21pOXhhcXNycjVpZDVmanowbGdxd2k5MjBsbHh4aThobXVxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="GitHub Banner" width="600" height="400"/>
-
+</p>
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=455&height=65&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Omnia+Meabed;A+Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
