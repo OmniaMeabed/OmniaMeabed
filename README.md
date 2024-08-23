@@ -64,8 +64,6 @@
 
 ## Top Used Languages
 
-# Most Used Languages
-
 ![Python](https://img.shields.io/badge/Python-66.45%25-blue)
 ![C++](https://img.shields.io/badge/C++-14.60%25-gray)
 ![Java](https://img.shields.io/badge/Java-7.58%25-yellow)
