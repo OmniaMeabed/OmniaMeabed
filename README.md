@@ -22,28 +22,23 @@
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
-##### 💪 Programming Languages
+### 🧑‍💻 Programming Languages
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="C++" src="https://img.shields.io/badge/C++-2c292d.svg?style=for-the-badge&logo=c++3&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-E34F26?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-##### 💪 Frameworks and Libraries
+### 🧰 Frameworks and Libraries
 
-<p>
-    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2c292d.svg?style=for-the-badge&logo=pandas&logoColor=ffffff"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2c292d.svg?style=for-the-badge&logo=TensorFlow&logoColor=ffffff"></a>
-
-</p>
-
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-009688?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E2D77?style=flat&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 <!-- ## Work Experience
 
 | 🏢 Company/Org                                | 💼 Role                           | ⏰ Duration          |
