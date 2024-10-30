@@ -66,8 +66,7 @@
 ![HTML](https://img.shields.io/badge/HTML-7.29%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-4.08%25-blue)
 
-## Contact me on
-
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Contact me on</h1>
 <div align="center">
     <table>
         <tr>
@@ -76,4 +75,8 @@
             <td><a href="mailto:omniameabed@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
         </tr>
     </table>
+</div>
+
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmniaMeabed&theme=transparent"/>
 </div>
